@@ -5,6 +5,7 @@ body {
   font-style: italic;
   background-image: url(themaine2019.jpg);
   background-size: cover;
+  background-position: center;
 }
 
 #band {
@@ -19,6 +20,7 @@ body {
   outline-style: dashed;
   background-color: #b8803d; opacity: 0.6;
 }
+
 #lyric {
   color: white;
   margin-left: 400px;
@@ -32,6 +34,7 @@ body {
   outline-style: double;
   background-color: #b8803d; opacity:0.6;
 }
+
 #song{
   color: white;
   font-size: 15px;
@@ -125,6 +128,7 @@ margin: -40px auto;
     line-height: 1.5em;
     margin: 0px auto;
 }
+
 a {
   color: #fff4e6;
   background: #8a5b27;
@@ -140,18 +144,15 @@ a {
   border-radius: 10px;
   padding: 12px 8px;
   box-shadow: 0 4px 8px 2px rgba(33, 21, 8, 0.3), 0 6px 20px 2px rgba(33, 21, 8, 0.3);
-
 }
 a:link {
   text-decoration: none;
   color: #fff4e6;
   background: #8a5b27;
 }
-
 a:visited {
   text-decoration: none;
 }
-
 a:hover {
   text-decoration: underline;
   color: #fff4e6;
@@ -159,7 +160,6 @@ a:hover {
   width: 28%;
   transition: width 0.5s;
 }
-
 a:active {
   text-decoration: underline;
   color: #FFF;
