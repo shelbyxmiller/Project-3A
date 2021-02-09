@@ -1,0 +1,180 @@
+body {
+  background-color: #cc8931;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 40px;
+  font-style: italic;
+  background-image: url(themaine2019.jpg);
+  background-size: cover;
+}
+
+#band {
+  color: white;
+  margin-top: 40px;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 80px;
+  text-shadow: 2px 2px 4px #66451b;
+  outline-style: dashed;
+  background-color: #b8803d; opacity: 0.6;
+}
+#lyric {
+  color: white;
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-bottom: 10px;
+  padding: 20px;
+  text-align: center;
+  font-size: 20px;
+  font-style: normal;
+  text-shadow: 2px 2px 4px #66451b;
+  outline-style: double;
+  background-color: #b8803d; opacity:0.6;
+}
+#song{
+  color: white;
+  font-size: 15px;
+}
+
+ul {
+list-style-type: none;
+padding: 0px auto;
+display: flex;
+justify-content: center;
+margin: -40px auto;
+}
+
+#box1{
+  color: black;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-top: -10px;
+  background: #d6a876; opacity: 0.85;
+  text-align: center;
+  border-radius: 25px;
+  border: 9px; solid #9c9170;
+  padding: 20px;
+  width: 75%;
+  font-size: 25px;
+  font-style: normal;
+  box-shadow: 0 4px 8px 2px rgba(33, 21, 8, 0.3), 0 6px 20px 2px rgba(33, 21, 8, 0.3);
+}
+
+#box2{
+  color: black;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-top: -10px;
+  background: #d6a876; opacity: 0.85;
+  text-align: center;
+  border-radius: 25px;
+  border: 9px; solid #9c9170;
+  padding: 20px;
+  width: 75%;
+  font-size: 25px;
+  font-style: normal;
+  box-shadow: 0 4px 8px 2px rgba(33, 21, 8, 0.3), 0 6px 20px 2px rgba(33, 21, 8, 0.3);
+}
+
+#box3{
+  color: black;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-top: -10px;
+  background: #d6a876; opacity: 0.85;
+  text-align: center;
+  border-radius: 25px;
+  border: 9px; solid #9c9170;
+  padding: 20px;
+  width: 75%;
+  font-size: 25px;
+  font-style: normal;
+  box-shadow: 0 4px 8px 2px rgba(33, 21, 8, 0.3), 0 6px 20px 2px rgba(33, 21, 8, 0.3);
+}
+
+#box4{
+  color: black;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-top: -10px;
+  background: #d6a876; opacity: 0.85;
+  text-align: center;
+  border-radius: 25px;
+  border: 9px; solid #9c9170;
+  padding: 20px;
+  width: 75%;
+  font-size: 25px;
+  font-style: normal;
+  box-shadow: 0 4px 8px 2px rgba(33, 21, 8, 0.3), 0 6px 20px 2px rgba(33, 21, 8, 0.3);
+}
+
+#listen{
+  text-align: center;
+  padding: 15px;
+  margin-top: 15px;
+  margin: 0px auto;
+}
+#listen a, #listen span {
+    display: inline-block;
+    text-align: center;
+    line-height: 1.5em;
+    margin: 0px auto;
+}
+a {
+  color: #fff4e6;
+  background: #8a5b27;
+  margin: 50px;
+  text-align: center;
+  display: block;
+  border-radius: 25px;
+  border: 3px solid #4f3417;
+  padding: 20px #edbd80;
+  width: 25%;
+  font-size: 20px;
+  font-family: Tahoma, sans-serif;
+  border-radius: 10px;
+  padding: 12px 8px;
+  box-shadow: 0 4px 8px 2px rgba(33, 21, 8, 0.3), 0 6px 20px 2px rgba(33, 21, 8, 0.3);
+
+}
+a:link {
+  text-decoration: none;
+  color: #fff4e6;
+  background: #8a5b27;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #fff4e6;
+  background: #4f3417;
+  width: 28%;
+  transition: width 0.5s;
+}
+
+a:active {
+  text-decoration: underline;
+  color: #FFF;
+  background: #66451b;
+}
+
+#bottom{
+  text-align: center;
+  margin-bottom: 15px;
+  margin: 0px auto;
+}
+#bottom a, #bottom span {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    line-height: 1.5em;
+    margin: 0px auto;
+}
